@@ -14,7 +14,3 @@ To run the tests simply install the dependencies with
 mvn clean install
 mvn clean test
 ```
-
-### Contributions
-
-When contributing please ensure that your commit messages are as descriptive as possible. Keeping the first line to a maximum of 72 characters.
